@@ -1,4 +1,4 @@
-# Product Name
+# FFmpeg OBS DATV DVBS2 launcher
 > Menu for fast launch ffmpeg on windows (DOS command), aimed for Hamradio DATV station.
 
 
