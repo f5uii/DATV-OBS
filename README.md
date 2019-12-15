@@ -10,8 +10,8 @@
 
 
 Windows:
-First install ffmpeg as recommended on the [https://github.com/yourname/github-link](https://github.com/dbader/)
-Download or copy the content of ```Launch.cmd```
+* First install ffmpeg as recommended on the [https://wiki.batc.org.uk/OBS_-_Open_Broadcast_Studio](https://wiki.batc.org.uk/OBS_-_Open_Broadcast_Studio)
+* Download or copy the content of ```Launch.cmd```
 
 
 ## Setup
