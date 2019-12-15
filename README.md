@@ -18,6 +18,9 @@ Windows:
 
 Change your Callsign and specify the IP adress of the Raspberry PI
 
+## Tip
+
+When restarting the command, indicate your choices identical to those of the previous launch by simply entering the Enter key
 
 ## Release History
 
